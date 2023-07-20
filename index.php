@@ -1,1 +1,1 @@
-<?php echo "LOL" ?>
+<?php echo "NC" ?>
